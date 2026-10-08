@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.content-horari {
+    text-align: left;
+}
+
+h1 {
+    font: size 30px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1000px;
+    background-color: #fff;
+}
+ 
+th, td {
+    border: 3px solid #000000;
+    padding: 15px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.4;
+    width: 100px;
+}
+ 
+thead th {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px;
+}
+ 
+.hora {
+    font-weight: bold;
+    font-size: 16px;
+    width: 110px;
+}
+
+.bg-blanco { background-color: #ffffff; }
+.bg-amarillo { background-color: #ffff00; }
+.bg-rosa { background-color: #f3a0a3; }
+.bg-crema { background-color: #fbe5d6; }
+.bg-naranja { background-color: #f8c291; }
+.bg-verde-claro { background-color: #e2efda; }
+.bg-verde { background-color: #a9d08e; }
+.bg-morado { background-color: #b4c6e7; }
+.bg-oliva { background-color: #c5e0b4; }
+.bg-azul { background-color: #bdd7ee; }
+.bg-amarillo-oscuro { background-color: #ffe699; }
+.bg-rojo { background-color: rgb(255, 97, 97);}
+.bg-celeste { background-color: rgb(0, 255, 255);}
